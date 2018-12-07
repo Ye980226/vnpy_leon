@@ -1,0 +1,2 @@
+/root/vnpy/vnpy/api/ctp/CMakeFiles/vnctpmd.dir
+/root/vnpy/vnpy/api/ctp/CMakeFiles/vnctptd.dir
